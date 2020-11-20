@@ -1,6 +1,6 @@
 ---
 title: 60 Plus
-description: this is meta description
+description: test
 bg_image: images/featue-bg.jpg
 
 ---
